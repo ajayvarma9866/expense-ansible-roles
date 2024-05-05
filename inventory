@@ -6,6 +6,3 @@ backend.devops9866.online
 
 [frontend]
 frontend.devops9866.online
-
-[all:vars]
-ansible_password=DevOps321
